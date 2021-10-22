@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'ViniGB',
-  youtube: 'UCiJzl-nQpGC0FZPEOYtxHzg',
+  youtube: 'channel/UCiJzl-nQpGC0FZPEOYtxHzg',
   facebook: 'vinicius.gomes.52',
   instagram: 'biniciusgomes',
   twitter: 'ViniSemoG'
